@@ -4,7 +4,7 @@ Here is one of my coursework projects called Database Design in the first year o
 
 An outline of how a database can be efficiently designed from the ground up to satisfy changing business requirements will be given in this article. My name is Kehinde, and I am a technical writer/Data science enthusiast. 
 
-Let's connect more: [LinkedIn](https://www.linkedin.com/in/adeniran-olanrewaju/), [Medium](https://adeniranolanrewaju.medium.com/)
+Let's connect more: [LinkedIn](https://www.linkedin.com/in/adeniran-olanrewaju/), [Medium](https://adeniranolanrewaju.medium.com/)...
 
 Please click [here](https://github.com/Adeniran02/DatabaseDesignCourseProject/blob/main/_Database%20Design%20(Crocs%20as%20a%20Case%20Study).pdf) to read the entire article. Thank you.
 
